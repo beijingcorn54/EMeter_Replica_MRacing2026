@@ -10,3 +10,6 @@ Power Protection Parts (Bennett):
 ## RULES
 Always pull the most recent files from the repo before working on your stuff.
 Always push your changes to the repo IMMEDIATELY after working on your stuff.
+
+## If you are new to github
+Use claude or chat to help you. Screenshot stuff and send it to your AI. AI will help you, trust.
