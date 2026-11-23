@@ -1,0 +1,14 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 128 32 -144 -32
+TEXT -20 -19 Left 2 LDO
+TEXT -66 12 Left 2 (5V to 3.3V)
+PIN 128 0 RIGHT 8
+PINATTR PinName In
+PINATTR SpiceOrder 1
+PIN -144 -16 LEFT 8
+PINATTR PinName out
+PINATTR SpiceOrder 2
+PIN -144 16 LEFT 8
+PINATTR PinName GND
+PINATTR SpiceOrder 3
