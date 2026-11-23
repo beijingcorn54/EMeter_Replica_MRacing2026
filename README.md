@@ -8,9 +8,9 @@ Input/Output Parts (Kate):
 Power Protection Parts (Bennett):
 
 ## RULES
-Always pull the most recent files from the repo before working on your stuff.
-Always push your changes to the repo IMMEDIATELY after working on your stuff.
-Text the slack when you upload to the git (ex. "pushed stuff to git").
+1. Always pull the most recent files from the repo before working on your stuff.
+2. Always push your changes to the repo IMMEDIATELY after working on your stuff.
+3. Always text the slack when you update the git
 
 ## If you are new to github
 Use claude or chat to help you. Screenshot stuff and send it to your AI. AI will help you, trust.
