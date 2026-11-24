@@ -1,6 +1,6 @@
 LTspice 26.0.2 for MacOS
-Circuit: /Users/bennetsong/Documents/MRacing/emd/EMeter_Replica_MRacing2026/RPP.net
-Start Time: Mon Nov 23 21:43:48 2026
+Circuit: /Users/kefuller/Documents/EMeter_Replica_MRacing2026/Phase3_LTSpice_Models/RPP.net
+Start Time: Tue Nov 24 17:11:23 2026
 solver = Normal
 Maximum thread count: 10
 tnom = 27
@@ -8,10 +8,10 @@ temp = 27
 method = trap
 Instance "u1:M1": Length shorter than recommended for a level 3 MOSFET.
 Instance "u1:M2": Length shorter than recommended for a level 3 MOSFET.
-Total elapsed time: 0.104 seconds.
+Total elapsed time: 0.051 seconds.
 
 Files loaded:
-/Users/bennetsong/Documents/MRacing/emd/EMeter_Replica_MRacing2026/RPP.net
-/Users/bennetsong/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.dio
-/Users/bennetsong/Documents/MRacing/emd/EMeter_Replica_MRacing2026/si2319cds_ps_Rev_C.lib
+/Users/kefuller/Documents/EMeter_Replica_MRacing2026/Phase3_LTSpice_Models/RPP.net
+/Users/kefuller/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.dio
+/Users/kefuller/Documents/EMeter_Replica_MRacing2026/Phase3_LTSpice_Models/si2319cds_ps_Rev_C.lib
 
