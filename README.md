@@ -3,11 +3,11 @@
 ## There are a lot of files; here are the final versions that are important, along with their component files:
 
 Voltage/Current Sensing Parts (Hamza):
-current_block1.asc - The current sensing path
-voltage_block.asc - The voltage sensing diagram
-AMC1302.asy
-AMC1302.lib
-AMC1350.lib
+current_block1.asc (the current sensing path) --
+voltage_block.asc (the voltage sensing diagram) --
+AMC1302.asy --
+AMC1302.lib --
+AMC1350.lib --
 AMC1350.asy
 
 
