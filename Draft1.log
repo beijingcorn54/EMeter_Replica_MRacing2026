@@ -1,0 +1,138 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/hamzaqureshi/Downloads/emreplicaltspice/Draft1.net
+Start Time: Tue Nov 24 17:00:40 2026
+Y:\Downloads\emreplicaltspice\AMC1350.lib(316): A parameter with this name is already defined elsewhere.
+.PARAM MinADel = {1n}
+       ^^^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(470): A parameter with this name is already defined elsewhere.
+.PARAM LS = 1.0U
+       ^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(471): A parameter with this name is already defined elsewhere.
+.PARAM VTOHP = 0.75
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(472): A parameter with this name is already defined elsewhere.
+.PARAM VTOHN = 0.75
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(474): A parameter with this name is already defined elsewhere.
+.PARAM LAMBDA = 10M
+       ^^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(475): A parameter with this name is already defined elsewhere.
+.PARAM GAMMA = 0.00
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(476): A parameter with this name is already defined elsewhere.
+.PARAM KAPPA = 1.0
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(477): A parameter with this name is already defined elsewhere.
+.PARAM THETA = 0.23
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(478): A parameter with this name is already defined elsewhere.
+.PARAM ETA = 3
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(479): A parameter with this name is already defined elsewhere.
+.PARAM KPN = {UON*COX * 1e-4}
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(480): A parameter with this name is already defined elsewhere.
+.PARAM KPP = {UOP*COX * 1e-4}
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(481): A parameter with this name is already defined elsewhere.
+.PARAM LDN = 0.09U
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(482): A parameter with this name is already defined elsewhere.
+.PARAM LDP = 0.09U
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(483): A parameter with this name is already defined elsewhere.
+.PARAM RSW = 1810
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(484): A parameter with this name is already defined elsewhere.
+.PARAM RSN = 1.41
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(485): A parameter with this name is already defined elsewhere.
+.PARAM RDS = 10MEG
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(486): A parameter with this name is already defined elsewhere.
+.PARAM VBMUL = 1E6
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(487): A parameter with this name is already defined elsewhere.
+.PARAM RPAR = 1T
+       ^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(488): A parameter with this name is already defined elsewhere.
+.PARAM CBDJ = 1.0 
+       ^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(489): A parameter with this name is already defined elsewhere.
+.PARAM CBDS = 1.0
+       ^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(490): A parameter with this name is already defined elsewhere.
+.PARAM CGBF = 1.0
+       ^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(491): A parameter with this name is already defined elsewhere.
+.PARAM PBP = 0.7
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(492): A parameter with this name is already defined elsewhere.
+.PARAM PBN = 0.7
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(493): A parameter with this name is already defined elsewhere.
+.PARAM UON = 450
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(494): A parameter with this name is already defined elsewhere.
+.PARAM UOP = 450
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(497): A parameter with this name is already defined elsewhere.
+.PARAM CJN = {200U}
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(498): A parameter with this name is already defined elsewhere.
+.PARAM CJP = {400U} 
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(499): A parameter with this name is already defined elsewhere.
+.PARAM CJSWN = {1.2N}
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(500): A parameter with this name is already defined elsewhere.
+.PARAM CJSWP = {2.4N}
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(501): A parameter with this name is already defined elsewhere.
+.PARAM XJN = 0.15U
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(502): A parameter with this name is already defined elsewhere.
+.PARAM CGSON = {0.6*XJN*COX} 
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(503): A parameter with this name is already defined elsewhere.
+.PARAM CGDON = {CGSON}
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(504): A parameter with this name is already defined elsewhere.
+.PARAM CGBON = {CGBF*CGDON}
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(505): A parameter with this name is already defined elsewhere.
+.PARAM XJP = 0.18U
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(506): A parameter with this name is already defined elsewhere.
+.PARAM CGSOP = {0.6*XJP*COX} 
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(507): A parameter with this name is already defined elsewhere.
+.PARAM CGDOP = {CGSOP}
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(508): A parameter with this name is already defined elsewhere.
+.PARAM CGBOP = {CGBF*CGDOP}
+       ^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(509): A parameter with this name is already defined elsewhere.
+.PARAM EPSSIO2 = {3.9*8.854214871E-12}
+       ^^^^^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(510): A parameter with this name is already defined elsewhere.
+.PARAM TOX = 80E-10
+       ^^^
+Y:\Downloads\emreplicaltspice\AMC1350.lib(511): A parameter with this name is already defined elsewhere.
+.PARAM COX = {EPSSIO2/TOX}
+       ^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(282): There is more than one sub-circuit definition with this name, which is ill-formed.
+.SUBCKT D_D2_0 1    2
+        ^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(49): There is more than one sub-circuit definition with this name, which is ill-formed.
+.SUBCKT DFilter_0 POut1 VOCM NOut1 INP GND2
+        ^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(62): There is more than one sub-circuit definition with this name, which is ill-formed.
+.SUBCKT Filter_Block_0 INP INN GND2 VDD2 VOUTN VOCM VOUTP
+        ^^^^^^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(297): There is more than one sub-circuit definition with this name, which is ill-formed.
+.SUBCKT VGAIN_0 INP INN VDD1 GND1 VDD2 GND2 OUTP OUTN FSO
+        ^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(167): There is more than one sub-circuit definition with this name, which is ill-formed.
+.SUBCKT Input_circuit_0 VINP VINN GND2 POut1 FSO VDD1 GND1 NOut1
+        ^^^^^^^^^^^^^^^

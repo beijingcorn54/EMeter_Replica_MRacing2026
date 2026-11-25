@@ -1,3 +1,53 @@
-Y:\Documents\EMeter_Replica_MRacing2026\Phase3_LTSpice_Models\current_block1.net(25): File not found.
-.lib Amc1302.lib
-     ^^^^^^^^^^^
+LTspice 26.0.2 for MacOS
+Circuit: /Users/hamzaqureshi/Downloads/emreplicaltspice/current_block1.net
+Start Time: Tue Nov 24 19:03:16 2026
+solver = Normal
+Maximum thread count: 10
+tnom = 27
+temp = 27
+method = trap
+Instance "u1:xfilter:xoutputn:xt2:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xbias:xt1:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xbias:xt3:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xbias:xt3:M1": Width narrower than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xoutputp:xt2:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xoutputn:xt7:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xbias:xt4:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xbias:xt4:M1": Width narrower than recommended for a level 1 MOSFET.
+Instance "u1:xfilter:xoutputp:xt7:M1": Length shorter than recommended for a level 1 MOSFET.
+Y:\Downloads\emreplicaltspice\Amc1302.lib(104): Missing value, assuming 0V @ DC.
+
+VAM2        50 VGN_48 ; Current Arrow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(105): Missing value, assuming 0V @ DC.
+
+VAM1        53 OUT ; Current Arrow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(104): Missing value, assuming 0V @ DC.
+
+VAM2        50 VGN_48 ; Current Arrow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(105): Missing value, assuming 0V @ DC.
+
+VAM1        53 OUT ; Current Arrow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(242): Missing value, assuming 0V @ DC.
+
+VIvcvs3     110 106 ; Current Arrow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Y:\Downloads\emreplicaltspice\Amc1302.lib(243): Missing value, assuming 0V @ DC.
+
+VIvs1       104 111 ; Current Arrow
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.308 seconds.
+
+Files loaded:
+/Users/hamzaqureshi/Downloads/emreplicaltspice/current_block1.net
+/Users/hamzaqureshi/Downloads/emreplicaltspice/Amc1302.lib
+
+vavg: AVG(V(ADC1_INP,ADC1_INN))=-1.22345878267 FROM 0 TO 0.002
+vmin: MIN(V(ADC1_INP,ADC1_INN))=-1.33012133837 FROM 0 TO 0.002
+vmax: MAX(V(ADC1_INP,ADC1_INN))=-1.11679321527 FROM 0 TO 0.002
+irms: RMS(I(R10))=151.49252003 FROM 0 TO 0.002
+pshunt: AVG(I(R10)*I(R10)*200u)=4.58999672503 FROM 0 TO 0.002
