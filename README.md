@@ -13,10 +13,10 @@ AMC1350.asy
 
 
 Power Protection Parts (Bennet):
-RPP.asc
-BZX84-B9V1.lib
-BZX84-B9V1.asy
-DMP10H400SEQ.asy
+RPP.asc --
+BZX84-B9V1.lib --
+BZX84-B9V1.asy --
+DMP10H400SEQ.asy --
 DMP10H400SEQ.lib
 
 
